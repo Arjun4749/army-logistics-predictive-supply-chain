@@ -1,0 +1,211 @@
+date,unit_id,location,item_id,item_name,category,quantity,unit,daily_consumption,lead_time_days,data_source
+2026-10-01,SIM-UNIT-01,Forward Base Alpha,ITEM-001,Rice,Food & Rations,800.0,kg,114.0,2,SYNTHETIC_DEMO
+2026-10-02,SIM-UNIT-01,Forward Base Alpha,ITEM-001,Rice,Food & Rations,758.0,kg,120.0,2,SYNTHETIC_DEMO
+2026-10-03,SIM-UNIT-01,Forward Base Alpha,ITEM-001,Rice,Food & Rations,716.0,kg,126.0,2,SYNTHETIC_DEMO
+2026-10-04,SIM-UNIT-01,Forward Base Alpha,ITEM-001,Rice,Food & Rations,674.0,kg,114.0,2,SYNTHETIC_DEMO
+2026-10-05,SIM-UNIT-01,Forward Base Alpha,ITEM-001,Rice,Food & Rations,632.0,kg,120.0,2,SYNTHETIC_DEMO
+2026-10-06,SIM-UNIT-01,Forward Base Alpha,ITEM-001,Rice,Food & Rations,590.0,kg,126.0,2,SYNTHETIC_DEMO
+2026-10-07,SIM-UNIT-01,Forward Base Alpha,ITEM-001,Rice,Food & Rations,548.0,kg,114.0,2,SYNTHETIC_DEMO
+2026-10-08,SIM-UNIT-01,Forward Base Alpha,ITEM-001,Rice,Food & Rations,506.0,kg,120.0,2,SYNTHETIC_DEMO
+2026-10-09,SIM-UNIT-01,Forward Base Alpha,ITEM-001,Rice,Food & Rations,464.0,kg,126.0,2,SYNTHETIC_DEMO
+2026-10-10,SIM-UNIT-01,Forward Base Alpha,ITEM-001,Rice,Food & Rations,422.0,kg,114.0,2,SYNTHETIC_DEMO
+2026-10-11,SIM-UNIT-01,Forward Base Alpha,ITEM-001,Rice,Food & Rations,380.0,kg,120.0,2,SYNTHETIC_DEMO
+2026-10-12,SIM-UNIT-01,Forward Base Alpha,ITEM-001,Rice,Food & Rations,338.0,kg,126.0,2,SYNTHETIC_DEMO
+2026-10-13,SIM-UNIT-01,Forward Base Alpha,ITEM-001,Rice,Food & Rations,296.0,kg,114.0,2,SYNTHETIC_DEMO
+2026-10-14,SIM-UNIT-01,Forward Base Alpha,ITEM-001,Rice,Food & Rations,254.0,kg,120.0,2,SYNTHETIC_DEMO
+2026-10-01,SIM-UNIT-01,Forward Base Alpha,ITEM-002,Drinking Water,Water,1200.0,units,171.0,1,SYNTHETIC_DEMO
+2026-10-02,SIM-UNIT-01,Forward Base Alpha,ITEM-002,Drinking Water,Water,1137.0,units,180.0,1,SYNTHETIC_DEMO
+2026-10-03,SIM-UNIT-01,Forward Base Alpha,ITEM-002,Drinking Water,Water,1074.0,units,189.0,1,SYNTHETIC_DEMO
+2026-10-04,SIM-UNIT-01,Forward Base Alpha,ITEM-002,Drinking Water,Water,1011.0,units,171.0,1,SYNTHETIC_DEMO
+2026-10-05,SIM-UNIT-01,Forward Base Alpha,ITEM-002,Drinking Water,Water,948.0,units,180.0,1,SYNTHETIC_DEMO
+2026-10-06,SIM-UNIT-01,Forward Base Alpha,ITEM-002,Drinking Water,Water,885.0,units,189.0,1,SYNTHETIC_DEMO
+2026-10-07,SIM-UNIT-01,Forward Base Alpha,ITEM-002,Drinking Water,Water,822.0,units,171.0,1,SYNTHETIC_DEMO
+2026-10-08,SIM-UNIT-01,Forward Base Alpha,ITEM-002,Drinking Water,Water,759.0,units,180.0,1,SYNTHETIC_DEMO
+2026-10-09,SIM-UNIT-01,Forward Base Alpha,ITEM-002,Drinking Water,Water,696.0,units,189.0,1,SYNTHETIC_DEMO
+2026-10-10,SIM-UNIT-01,Forward Base Alpha,ITEM-002,Drinking Water,Water,633.0,units,171.0,1,SYNTHETIC_DEMO
+2026-10-11,SIM-UNIT-01,Forward Base Alpha,ITEM-002,Drinking Water,Water,570.0,units,180.0,1,SYNTHETIC_DEMO
+2026-10-12,SIM-UNIT-01,Forward Base Alpha,ITEM-002,Drinking Water,Water,507.0,units,189.0,1,SYNTHETIC_DEMO
+2026-10-13,SIM-UNIT-01,Forward Base Alpha,ITEM-002,Drinking Water,Water,444.0,units,171.0,1,SYNTHETIC_DEMO
+2026-10-14,SIM-UNIT-01,Forward Base Alpha,ITEM-002,Drinking Water,Water,381.0,units,180.0,1,SYNTHETIC_DEMO
+2026-10-01,SIM-UNIT-01,Forward Base Alpha,ITEM-003,Medical Kits,Medical,150.0,units,7.6,3,SYNTHETIC_DEMO
+2026-10-02,SIM-UNIT-01,Forward Base Alpha,ITEM-003,Medical Kits,Medical,147.2,units,8.0,3,SYNTHETIC_DEMO
+2026-10-03,SIM-UNIT-01,Forward Base Alpha,ITEM-003,Medical Kits,Medical,144.4,units,8.4,3,SYNTHETIC_DEMO
+2026-10-04,SIM-UNIT-01,Forward Base Alpha,ITEM-003,Medical Kits,Medical,141.6,units,7.6,3,SYNTHETIC_DEMO
+2026-10-05,SIM-UNIT-01,Forward Base Alpha,ITEM-003,Medical Kits,Medical,138.8,units,8.0,3,SYNTHETIC_DEMO
+2026-10-06,SIM-UNIT-01,Forward Base Alpha,ITEM-003,Medical Kits,Medical,136.0,units,8.4,3,SYNTHETIC_DEMO
+2026-10-07,SIM-UNIT-01,Forward Base Alpha,ITEM-003,Medical Kits,Medical,133.2,units,7.6,3,SYNTHETIC_DEMO
+2026-10-08,SIM-UNIT-01,Forward Base Alpha,ITEM-003,Medical Kits,Medical,130.4,units,8.0,3,SYNTHETIC_DEMO
+2026-10-09,SIM-UNIT-01,Forward Base Alpha,ITEM-003,Medical Kits,Medical,127.6,units,8.4,3,SYNTHETIC_DEMO
+2026-10-10,SIM-UNIT-01,Forward Base Alpha,ITEM-003,Medical Kits,Medical,124.8,units,7.6,3,SYNTHETIC_DEMO
+2026-10-11,SIM-UNIT-01,Forward Base Alpha,ITEM-003,Medical Kits,Medical,122.0,units,8.0,3,SYNTHETIC_DEMO
+2026-10-12,SIM-UNIT-01,Forward Base Alpha,ITEM-003,Medical Kits,Medical,119.2,units,8.4,3,SYNTHETIC_DEMO
+2026-10-13,SIM-UNIT-01,Forward Base Alpha,ITEM-003,Medical Kits,Medical,116.4,units,7.6,3,SYNTHETIC_DEMO
+2026-10-14,SIM-UNIT-01,Forward Base Alpha,ITEM-003,Medical Kits,Medical,113.6,units,8.0,3,SYNTHETIC_DEMO
+2026-10-01,SIM-UNIT-01,Forward Base Alpha,ITEM-004,Fuel,Fuel,600.0,kg,66.5,4,SYNTHETIC_DEMO
+2026-10-02,SIM-UNIT-01,Forward Base Alpha,ITEM-004,Fuel,Fuel,575.5,kg,70.0,4,SYNTHETIC_DEMO
+2026-10-03,SIM-UNIT-01,Forward Base Alpha,ITEM-004,Fuel,Fuel,551.0,kg,73.5,4,SYNTHETIC_DEMO
+2026-10-04,SIM-UNIT-01,Forward Base Alpha,ITEM-004,Fuel,Fuel,526.5,kg,66.5,4,SYNTHETIC_DEMO
+2026-10-05,SIM-UNIT-01,Forward Base Alpha,ITEM-004,Fuel,Fuel,502.0,kg,70.0,4,SYNTHETIC_DEMO
+2026-10-06,SIM-UNIT-01,Forward Base Alpha,ITEM-004,Fuel,Fuel,477.5,kg,73.5,4,SYNTHETIC_DEMO
+2026-10-07,SIM-UNIT-01,Forward Base Alpha,ITEM-004,Fuel,Fuel,453.0,kg,66.5,4,SYNTHETIC_DEMO
+2026-10-08,SIM-UNIT-01,Forward Base Alpha,ITEM-004,Fuel,Fuel,428.5,kg,70.0,4,SYNTHETIC_DEMO
+2026-10-09,SIM-UNIT-01,Forward Base Alpha,ITEM-004,Fuel,Fuel,404.0,kg,73.5,4,SYNTHETIC_DEMO
+2026-10-10,SIM-UNIT-01,Forward Base Alpha,ITEM-004,Fuel,Fuel,379.5,kg,66.5,4,SYNTHETIC_DEMO
+2026-10-11,SIM-UNIT-01,Forward Base Alpha,ITEM-004,Fuel,Fuel,355.0,kg,70.0,4,SYNTHETIC_DEMO
+2026-10-12,SIM-UNIT-01,Forward Base Alpha,ITEM-004,Fuel,Fuel,330.5,kg,73.5,4,SYNTHETIC_DEMO
+2026-10-13,SIM-UNIT-01,Forward Base Alpha,ITEM-004,Fuel,Fuel,306.0,kg,66.5,4,SYNTHETIC_DEMO
+2026-10-14,SIM-UNIT-01,Forward Base Alpha,ITEM-004,Fuel,Fuel,281.5,kg,70.0,4,SYNTHETIC_DEMO
+2026-10-01,SIM-UNIT-01,Forward Base Alpha,ITEM-005,Blankets,Equipment,250.0,units,4.75,5,SYNTHETIC_DEMO
+2026-10-02,SIM-UNIT-01,Forward Base Alpha,ITEM-005,Blankets,Equipment,248.25,units,5.0,5,SYNTHETIC_DEMO
+2026-10-03,SIM-UNIT-01,Forward Base Alpha,ITEM-005,Blankets,Equipment,246.5,units,5.25,5,SYNTHETIC_DEMO
+2026-10-04,SIM-UNIT-01,Forward Base Alpha,ITEM-005,Blankets,Equipment,244.75,units,4.75,5,SYNTHETIC_DEMO
+2026-10-05,SIM-UNIT-01,Forward Base Alpha,ITEM-005,Blankets,Equipment,243.0,units,5.0,5,SYNTHETIC_DEMO
+2026-10-06,SIM-UNIT-01,Forward Base Alpha,ITEM-005,Blankets,Equipment,241.25,units,5.25,5,SYNTHETIC_DEMO
+2026-10-07,SIM-UNIT-01,Forward Base Alpha,ITEM-005,Blankets,Equipment,239.5,units,4.75,5,SYNTHETIC_DEMO
+2026-10-08,SIM-UNIT-01,Forward Base Alpha,ITEM-005,Blankets,Equipment,237.75,units,5.0,5,SYNTHETIC_DEMO
+2026-10-09,SIM-UNIT-01,Forward Base Alpha,ITEM-005,Blankets,Equipment,236.0,units,5.25,5,SYNTHETIC_DEMO
+2026-10-10,SIM-UNIT-01,Forward Base Alpha,ITEM-005,Blankets,Equipment,234.25,units,4.75,5,SYNTHETIC_DEMO
+2026-10-11,SIM-UNIT-01,Forward Base Alpha,ITEM-005,Blankets,Equipment,232.5,units,5.0,5,SYNTHETIC_DEMO
+2026-10-12,SIM-UNIT-01,Forward Base Alpha,ITEM-005,Blankets,Equipment,230.75,units,5.25,5,SYNTHETIC_DEMO
+2026-10-13,SIM-UNIT-01,Forward Base Alpha,ITEM-005,Blankets,Equipment,229.0,units,4.75,5,SYNTHETIC_DEMO
+2026-10-14,SIM-UNIT-01,Forward Base Alpha,ITEM-005,Blankets,Equipment,227.25,units,5.0,5,SYNTHETIC_DEMO
+2026-10-01,SIM-UNIT-02,Forward Base Bravo,ITEM-001,Rice,Food & Rations,800.0,kg,114.0,2,SYNTHETIC_DEMO
+2026-10-02,SIM-UNIT-02,Forward Base Bravo,ITEM-001,Rice,Food & Rations,758.0,kg,120.0,2,SYNTHETIC_DEMO
+2026-10-03,SIM-UNIT-02,Forward Base Bravo,ITEM-001,Rice,Food & Rations,716.0,kg,126.0,2,SYNTHETIC_DEMO
+2026-10-04,SIM-UNIT-02,Forward Base Bravo,ITEM-001,Rice,Food & Rations,674.0,kg,114.0,2,SYNTHETIC_DEMO
+2026-10-05,SIM-UNIT-02,Forward Base Bravo,ITEM-001,Rice,Food & Rations,632.0,kg,120.0,2,SYNTHETIC_DEMO
+2026-10-06,SIM-UNIT-02,Forward Base Bravo,ITEM-001,Rice,Food & Rations,590.0,kg,126.0,2,SYNTHETIC_DEMO
+2026-10-07,SIM-UNIT-02,Forward Base Bravo,ITEM-001,Rice,Food & Rations,548.0,kg,114.0,2,SYNTHETIC_DEMO
+2026-10-08,SIM-UNIT-02,Forward Base Bravo,ITEM-001,Rice,Food & Rations,506.0,kg,120.0,2,SYNTHETIC_DEMO
+2026-10-09,SIM-UNIT-02,Forward Base Bravo,ITEM-001,Rice,Food & Rations,464.0,kg,126.0,2,SYNTHETIC_DEMO
+2026-10-10,SIM-UNIT-02,Forward Base Bravo,ITEM-001,Rice,Food & Rations,422.0,kg,114.0,2,SYNTHETIC_DEMO
+2026-10-11,SIM-UNIT-02,Forward Base Bravo,ITEM-001,Rice,Food & Rations,380.0,kg,120.0,2,SYNTHETIC_DEMO
+2026-10-12,SIM-UNIT-02,Forward Base Bravo,ITEM-001,Rice,Food & Rations,338.0,kg,126.0,2,SYNTHETIC_DEMO
+2026-10-13,SIM-UNIT-02,Forward Base Bravo,ITEM-001,Rice,Food & Rations,296.0,kg,114.0,2,SYNTHETIC_DEMO
+2026-10-14,SIM-UNIT-02,Forward Base Bravo,ITEM-001,Rice,Food & Rations,254.0,kg,120.0,2,SYNTHETIC_DEMO
+2026-10-01,SIM-UNIT-02,Forward Base Bravo,ITEM-002,Drinking Water,Water,1200.0,units,171.0,1,SYNTHETIC_DEMO
+2026-10-02,SIM-UNIT-02,Forward Base Bravo,ITEM-002,Drinking Water,Water,1137.0,units,180.0,1,SYNTHETIC_DEMO
+2026-10-03,SIM-UNIT-02,Forward Base Bravo,ITEM-002,Drinking Water,Water,1074.0,units,189.0,1,SYNTHETIC_DEMO
+2026-10-04,SIM-UNIT-02,Forward Base Bravo,ITEM-002,Drinking Water,Water,1011.0,units,171.0,1,SYNTHETIC_DEMO
+2026-10-05,SIM-UNIT-02,Forward Base Bravo,ITEM-002,Drinking Water,Water,948.0,units,180.0,1,SYNTHETIC_DEMO
+2026-10-06,SIM-UNIT-02,Forward Base Bravo,ITEM-002,Drinking Water,Water,885.0,units,189.0,1,SYNTHETIC_DEMO
+2026-10-07,SIM-UNIT-02,Forward Base Bravo,ITEM-002,Drinking Water,Water,822.0,units,171.0,1,SYNTHETIC_DEMO
+2026-10-08,SIM-UNIT-02,Forward Base Bravo,ITEM-002,Drinking Water,Water,759.0,units,180.0,1,SYNTHETIC_DEMO
+2026-10-09,SIM-UNIT-02,Forward Base Bravo,ITEM-002,Drinking Water,Water,696.0,units,189.0,1,SYNTHETIC_DEMO
+2026-10-10,SIM-UNIT-02,Forward Base Bravo,ITEM-002,Drinking Water,Water,633.0,units,171.0,1,SYNTHETIC_DEMO
+2026-10-11,SIM-UNIT-02,Forward Base Bravo,ITEM-002,Drinking Water,Water,570.0,units,180.0,1,SYNTHETIC_DEMO
+2026-10-12,SIM-UNIT-02,Forward Base Bravo,ITEM-002,Drinking Water,Water,507.0,units,189.0,1,SYNTHETIC_DEMO
+2026-10-13,SIM-UNIT-02,Forward Base Bravo,ITEM-002,Drinking Water,Water,444.0,units,171.0,1,SYNTHETIC_DEMO
+2026-10-14,SIM-UNIT-02,Forward Base Bravo,ITEM-002,Drinking Water,Water,381.0,units,180.0,1,SYNTHETIC_DEMO
+2026-10-01,SIM-UNIT-02,Forward Base Bravo,ITEM-003,Medical Kits,Medical,150.0,units,7.6,3,SYNTHETIC_DEMO
+2026-10-02,SIM-UNIT-02,Forward Base Bravo,ITEM-003,Medical Kits,Medical,147.2,units,8.0,3,SYNTHETIC_DEMO
+2026-10-03,SIM-UNIT-02,Forward Base Bravo,ITEM-003,Medical Kits,Medical,144.4,units,8.4,3,SYNTHETIC_DEMO
+2026-10-04,SIM-UNIT-02,Forward Base Bravo,ITEM-003,Medical Kits,Medical,141.6,units,7.6,3,SYNTHETIC_DEMO
+2026-10-05,SIM-UNIT-02,Forward Base Bravo,ITEM-003,Medical Kits,Medical,138.8,units,8.0,3,SYNTHETIC_DEMO
+2026-10-06,SIM-UNIT-02,Forward Base Bravo,ITEM-003,Medical Kits,Medical,136.0,units,8.4,3,SYNTHETIC_DEMO
+2026-10-07,SIM-UNIT-02,Forward Base Bravo,ITEM-003,Medical Kits,Medical,133.2,units,7.6,3,SYNTHETIC_DEMO
+2026-10-08,SIM-UNIT-02,Forward Base Bravo,ITEM-003,Medical Kits,Medical,130.4,units,8.0,3,SYNTHETIC_DEMO
+2026-10-09,SIM-UNIT-02,Forward Base Bravo,ITEM-003,Medical Kits,Medical,127.6,units,8.4,3,SYNTHETIC_DEMO
+2026-10-10,SIM-UNIT-02,Forward Base Bravo,ITEM-003,Medical Kits,Medical,124.8,units,7.6,3,SYNTHETIC_DEMO
+2026-10-11,SIM-UNIT-02,Forward Base Bravo,ITEM-003,Medical Kits,Medical,122.0,units,8.0,3,SYNTHETIC_DEMO
+2026-10-12,SIM-UNIT-02,Forward Base Bravo,ITEM-003,Medical Kits,Medical,119.2,units,8.4,3,SYNTHETIC_DEMO
+2026-10-13,SIM-UNIT-02,Forward Base Bravo,ITEM-003,Medical Kits,Medical,116.4,units,7.6,3,SYNTHETIC_DEMO
+2026-10-14,SIM-UNIT-02,Forward Base Bravo,ITEM-003,Medical Kits,Medical,113.6,units,8.0,3,SYNTHETIC_DEMO
+2026-10-01,SIM-UNIT-02,Forward Base Bravo,ITEM-004,Fuel,Fuel,600.0,kg,66.5,4,SYNTHETIC_DEMO
+2026-10-02,SIM-UNIT-02,Forward Base Bravo,ITEM-004,Fuel,Fuel,575.5,kg,70.0,4,SYNTHETIC_DEMO
+2026-10-03,SIM-UNIT-02,Forward Base Bravo,ITEM-004,Fuel,Fuel,551.0,kg,73.5,4,SYNTHETIC_DEMO
+2026-10-04,SIM-UNIT-02,Forward Base Bravo,ITEM-004,Fuel,Fuel,526.5,kg,66.5,4,SYNTHETIC_DEMO
+2026-10-05,SIM-UNIT-02,Forward Base Bravo,ITEM-004,Fuel,Fuel,502.0,kg,70.0,4,SYNTHETIC_DEMO
+2026-10-06,SIM-UNIT-02,Forward Base Bravo,ITEM-004,Fuel,Fuel,477.5,kg,73.5,4,SYNTHETIC_DEMO
+2026-10-07,SIM-UNIT-02,Forward Base Bravo,ITEM-004,Fuel,Fuel,453.0,kg,66.5,4,SYNTHETIC_DEMO
+2026-10-08,SIM-UNIT-02,Forward Base Bravo,ITEM-004,Fuel,Fuel,428.5,kg,70.0,4,SYNTHETIC_DEMO
+2026-10-09,SIM-UNIT-02,Forward Base Bravo,ITEM-004,Fuel,Fuel,404.0,kg,73.5,4,SYNTHETIC_DEMO
+2026-10-10,SIM-UNIT-02,Forward Base Bravo,ITEM-004,Fuel,Fuel,379.5,kg,66.5,4,SYNTHETIC_DEMO
+2026-10-11,SIM-UNIT-02,Forward Base Bravo,ITEM-004,Fuel,Fuel,355.0,kg,70.0,4,SYNTHETIC_DEMO
+2026-10-12,SIM-UNIT-02,Forward Base Bravo,ITEM-004,Fuel,Fuel,330.5,kg,73.5,4,SYNTHETIC_DEMO
+2026-10-13,SIM-UNIT-02,Forward Base Bravo,ITEM-004,Fuel,Fuel,306.0,kg,66.5,4,SYNTHETIC_DEMO
+2026-10-14,SIM-UNIT-02,Forward Base Bravo,ITEM-004,Fuel,Fuel,281.5,kg,70.0,4,SYNTHETIC_DEMO
+2026-10-01,SIM-UNIT-02,Forward Base Bravo,ITEM-005,Blankets,Equipment,250.0,units,4.75,5,SYNTHETIC_DEMO
+2026-10-02,SIM-UNIT-02,Forward Base Bravo,ITEM-005,Blankets,Equipment,248.25,units,5.0,5,SYNTHETIC_DEMO
+2026-10-03,SIM-UNIT-02,Forward Base Bravo,ITEM-005,Blankets,Equipment,246.5,units,5.25,5,SYNTHETIC_DEMO
+2026-10-04,SIM-UNIT-02,Forward Base Bravo,ITEM-005,Blankets,Equipment,244.75,units,4.75,5,SYNTHETIC_DEMO
+2026-10-05,SIM-UNIT-02,Forward Base Bravo,ITEM-005,Blankets,Equipment,243.0,units,5.0,5,SYNTHETIC_DEMO
+2026-10-06,SIM-UNIT-02,Forward Base Bravo,ITEM-005,Blankets,Equipment,241.25,units,5.25,5,SYNTHETIC_DEMO
+2026-10-07,SIM-UNIT-02,Forward Base Bravo,ITEM-005,Blankets,Equipment,239.5,units,4.75,5,SYNTHETIC_DEMO
+2026-10-08,SIM-UNIT-02,Forward Base Bravo,ITEM-005,Blankets,Equipment,237.75,units,5.0,5,SYNTHETIC_DEMO
+2026-10-09,SIM-UNIT-02,Forward Base Bravo,ITEM-005,Blankets,Equipment,236.0,units,5.25,5,SYNTHETIC_DEMO
+2026-10-10,SIM-UNIT-02,Forward Base Bravo,ITEM-005,Blankets,Equipment,234.25,units,4.75,5,SYNTHETIC_DEMO
+2026-10-11,SIM-UNIT-02,Forward Base Bravo,ITEM-005,Blankets,Equipment,232.5,units,5.0,5,SYNTHETIC_DEMO
+2026-10-12,SIM-UNIT-02,Forward Base Bravo,ITEM-005,Blankets,Equipment,230.75,units,5.25,5,SYNTHETIC_DEMO
+2026-10-13,SIM-UNIT-02,Forward Base Bravo,ITEM-005,Blankets,Equipment,229.0,units,4.75,5,SYNTHETIC_DEMO
+2026-10-14,SIM-UNIT-02,Forward Base Bravo,ITEM-005,Blankets,Equipment,227.25,units,5.0,5,SYNTHETIC_DEMO
+2026-10-01,SIM-UNIT-03,Forward Base Charlie,ITEM-001,Rice,Food & Rations,800.0,kg,114.0,2,SYNTHETIC_DEMO
+2026-10-02,SIM-UNIT-03,Forward Base Charlie,ITEM-001,Rice,Food & Rations,758.0,kg,120.0,2,SYNTHETIC_DEMO
+2026-10-03,SIM-UNIT-03,Forward Base Charlie,ITEM-001,Rice,Food & Rations,716.0,kg,126.0,2,SYNTHETIC_DEMO
+2026-10-04,SIM-UNIT-03,Forward Base Charlie,ITEM-001,Rice,Food & Rations,674.0,kg,114.0,2,SYNTHETIC_DEMO
+2026-10-05,SIM-UNIT-03,Forward Base Charlie,ITEM-001,Rice,Food & Rations,632.0,kg,120.0,2,SYNTHETIC_DEMO
+2026-10-06,SIM-UNIT-03,Forward Base Charlie,ITEM-001,Rice,Food & Rations,590.0,kg,126.0,2,SYNTHETIC_DEMO
+2026-10-07,SIM-UNIT-03,Forward Base Charlie,ITEM-001,Rice,Food & Rations,548.0,kg,114.0,2,SYNTHETIC_DEMO
+2026-10-08,SIM-UNIT-03,Forward Base Charlie,ITEM-001,Rice,Food & Rations,506.0,kg,120.0,2,SYNTHETIC_DEMO
+2026-10-09,SIM-UNIT-03,Forward Base Charlie,ITEM-001,Rice,Food & Rations,464.0,kg,126.0,2,SYNTHETIC_DEMO
+2026-10-10,SIM-UNIT-03,Forward Base Charlie,ITEM-001,Rice,Food & Rations,422.0,kg,114.0,2,SYNTHETIC_DEMO
+2026-10-11,SIM-UNIT-03,Forward Base Charlie,ITEM-001,Rice,Food & Rations,380.0,kg,120.0,2,SYNTHETIC_DEMO
+2026-10-12,SIM-UNIT-03,Forward Base Charlie,ITEM-001,Rice,Food & Rations,338.0,kg,126.0,2,SYNTHETIC_DEMO
+2026-10-13,SIM-UNIT-03,Forward Base Charlie,ITEM-001,Rice,Food & Rations,296.0,kg,114.0,2,SYNTHETIC_DEMO
+2026-10-14,SIM-UNIT-03,Forward Base Charlie,ITEM-001,Rice,Food & Rations,254.0,kg,120.0,2,SYNTHETIC_DEMO
+2026-10-01,SIM-UNIT-03,Forward Base Charlie,ITEM-002,Drinking Water,Water,1200.0,units,171.0,1,SYNTHETIC_DEMO
+2026-10-02,SIM-UNIT-03,Forward Base Charlie,ITEM-002,Drinking Water,Water,1137.0,units,180.0,1,SYNTHETIC_DEMO
+2026-10-03,SIM-UNIT-03,Forward Base Charlie,ITEM-002,Drinking Water,Water,1074.0,units,189.0,1,SYNTHETIC_DEMO
+2026-10-04,SIM-UNIT-03,Forward Base Charlie,ITEM-002,Drinking Water,Water,1011.0,units,171.0,1,SYNTHETIC_DEMO
+2026-10-05,SIM-UNIT-03,Forward Base Charlie,ITEM-002,Drinking Water,Water,948.0,units,180.0,1,SYNTHETIC_DEMO
+2026-10-06,SIM-UNIT-03,Forward Base Charlie,ITEM-002,Drinking Water,Water,885.0,units,189.0,1,SYNTHETIC_DEMO
+2026-10-07,SIM-UNIT-03,Forward Base Charlie,ITEM-002,Drinking Water,Water,822.0,units,171.0,1,SYNTHETIC_DEMO
+2026-10-08,SIM-UNIT-03,Forward Base Charlie,ITEM-002,Drinking Water,Water,759.0,units,180.0,1,SYNTHETIC_DEMO
+2026-10-09,SIM-UNIT-03,Forward Base Charlie,ITEM-002,Drinking Water,Water,696.0,units,189.0,1,SYNTHETIC_DEMO
+2026-10-10,SIM-UNIT-03,Forward Base Charlie,ITEM-002,Drinking Water,Water,633.0,units,171.0,1,SYNTHETIC_DEMO
+2026-10-11,SIM-UNIT-03,Forward Base Charlie,ITEM-002,Drinking Water,Water,570.0,units,180.0,1,SYNTHETIC_DEMO
+2026-10-12,SIM-UNIT-03,Forward Base Charlie,ITEM-002,Drinking Water,Water,507.0,units,189.0,1,SYNTHETIC_DEMO
+2026-10-13,SIM-UNIT-03,Forward Base Charlie,ITEM-002,Drinking Water,Water,444.0,units,171.0,1,SYNTHETIC_DEMO
+2026-10-14,SIM-UNIT-03,Forward Base Charlie,ITEM-002,Drinking Water,Water,381.0,units,180.0,1,SYNTHETIC_DEMO
+2026-10-01,SIM-UNIT-03,Forward Base Charlie,ITEM-003,Medical Kits,Medical,150.0,units,7.6,3,SYNTHETIC_DEMO
+2026-10-02,SIM-UNIT-03,Forward Base Charlie,ITEM-003,Medical Kits,Medical,147.2,units,8.0,3,SYNTHETIC_DEMO
+2026-10-03,SIM-UNIT-03,Forward Base Charlie,ITEM-003,Medical Kits,Medical,144.4,units,8.4,3,SYNTHETIC_DEMO
+2026-10-04,SIM-UNIT-03,Forward Base Charlie,ITEM-003,Medical Kits,Medical,141.6,units,7.6,3,SYNTHETIC_DEMO
+2026-10-05,SIM-UNIT-03,Forward Base Charlie,ITEM-003,Medical Kits,Medical,138.8,units,8.0,3,SYNTHETIC_DEMO
+2026-10-06,SIM-UNIT-03,Forward Base Charlie,ITEM-003,Medical Kits,Medical,136.0,units,8.4,3,SYNTHETIC_DEMO
+2026-10-07,SIM-UNIT-03,Forward Base Charlie,ITEM-003,Medical Kits,Medical,133.2,units,7.6,3,SYNTHETIC_DEMO
+2026-10-08,SIM-UNIT-03,Forward Base Charlie,ITEM-003,Medical Kits,Medical,130.4,units,8.0,3,SYNTHETIC_DEMO
+2026-10-09,SIM-UNIT-03,Forward Base Charlie,ITEM-003,Medical Kits,Medical,127.6,units,8.4,3,SYNTHETIC_DEMO
+2026-10-10,SIM-UNIT-03,Forward Base Charlie,ITEM-003,Medical Kits,Medical,124.8,units,7.6,3,SYNTHETIC_DEMO
+2026-10-11,SIM-UNIT-03,Forward Base Charlie,ITEM-003,Medical Kits,Medical,122.0,units,8.0,3,SYNTHETIC_DEMO
+2026-10-12,SIM-UNIT-03,Forward Base Charlie,ITEM-003,Medical Kits,Medical,119.2,units,8.4,3,SYNTHETIC_DEMO
+2026-10-13,SIM-UNIT-03,Forward Base Charlie,ITEM-003,Medical Kits,Medical,116.4,units,7.6,3,SYNTHETIC_DEMO
+2026-10-14,SIM-UNIT-03,Forward Base Charlie,ITEM-003,Medical Kits,Medical,113.6,units,8.0,3,SYNTHETIC_DEMO
+2026-10-01,SIM-UNIT-03,Forward Base Charlie,ITEM-004,Fuel,Fuel,600.0,kg,66.5,4,SYNTHETIC_DEMO
+2026-10-02,SIM-UNIT-03,Forward Base Charlie,ITEM-004,Fuel,Fuel,575.5,kg,70.0,4,SYNTHETIC_DEMO
+2026-10-03,SIM-UNIT-03,Forward Base Charlie,ITEM-004,Fuel,Fuel,551.0,kg,73.5,4,SYNTHETIC_DEMO
+2026-10-04,SIM-UNIT-03,Forward Base Charlie,ITEM-004,Fuel,Fuel,526.5,kg,66.5,4,SYNTHETIC_DEMO
+2026-10-05,SIM-UNIT-03,Forward Base Charlie,ITEM-004,Fuel,Fuel,502.0,kg,70.0,4,SYNTHETIC_DEMO
+2026-10-06,SIM-UNIT-03,Forward Base Charlie,ITEM-004,Fuel,Fuel,477.5,kg,73.5,4,SYNTHETIC_DEMO
+2026-10-07,SIM-UNIT-03,Forward Base Charlie,ITEM-004,Fuel,Fuel,453.0,kg,66.5,4,SYNTHETIC_DEMO
+2026-10-08,SIM-UNIT-03,Forward Base Charlie,ITEM-004,Fuel,Fuel,428.5,kg,70.0,4,SYNTHETIC_DEMO
+2026-10-09,SIM-UNIT-03,Forward Base Charlie,ITEM-004,Fuel,Fuel,404.0,kg,73.5,4,SYNTHETIC_DEMO
+2026-10-10,SIM-UNIT-03,Forward Base Charlie,ITEM-004,Fuel,Fuel,379.5,kg,66.5,4,SYNTHETIC_DEMO
+2026-10-11,SIM-UNIT-03,Forward Base Charlie,ITEM-004,Fuel,Fuel,355.0,kg,70.0,4,SYNTHETIC_DEMO
+2026-10-12,SIM-UNIT-03,Forward Base Charlie,ITEM-004,Fuel,Fuel,330.5,kg,73.5,4,SYNTHETIC_DEMO
+2026-10-13,SIM-UNIT-03,Forward Base Charlie,ITEM-004,Fuel,Fuel,306.0,kg,66.5,4,SYNTHETIC_DEMO
+2026-10-14,SIM-UNIT-03,Forward Base Charlie,ITEM-004,Fuel,Fuel,281.5,kg,70.0,4,SYNTHETIC_DEMO
+2026-10-01,SIM-UNIT-03,Forward Base Charlie,ITEM-005,Blankets,Equipment,250.0,units,4.75,5,SYNTHETIC_DEMO
+2026-10-02,SIM-UNIT-03,Forward Base Charlie,ITEM-005,Blankets,Equipment,248.25,units,5.0,5,SYNTHETIC_DEMO
+2026-10-03,SIM-UNIT-03,Forward Base Charlie,ITEM-005,Blankets,Equipment,246.5,units,5.25,5,SYNTHETIC_DEMO
+2026-10-04,SIM-UNIT-03,Forward Base Charlie,ITEM-005,Blankets,Equipment,244.75,units,4.75,5,SYNTHETIC_DEMO
+2026-10-05,SIM-UNIT-03,Forward Base Charlie,ITEM-005,Blankets,Equipment,243.0,units,5.0,5,SYNTHETIC_DEMO
+2026-10-06,SIM-UNIT-03,Forward Base Charlie,ITEM-005,Blankets,Equipment,241.25,units,5.25,5,SYNTHETIC_DEMO
+2026-10-07,SIM-UNIT-03,Forward Base Charlie,ITEM-005,Blankets,Equipment,239.5,units,4.75,5,SYNTHETIC_DEMO
+2026-10-08,SIM-UNIT-03,Forward Base Charlie,ITEM-005,Blankets,Equipment,237.75,units,5.0,5,SYNTHETIC_DEMO
+2026-10-09,SIM-UNIT-03,Forward Base Charlie,ITEM-005,Blankets,Equipment,236.0,units,5.25,5,SYNTHETIC_DEMO
+2026-10-10,SIM-UNIT-03,Forward Base Charlie,ITEM-005,Blankets,Equipment,234.25,units,4.75,5,SYNTHETIC_DEMO
+2026-10-11,SIM-UNIT-03,Forward Base Charlie,ITEM-005,Blankets,Equipment,232.5,units,5.0,5,SYNTHETIC_DEMO
+2026-10-12,SIM-UNIT-03,Forward Base Charlie,ITEM-005,Blankets,Equipment,230.75,units,5.25,5,SYNTHETIC_DEMO
+2026-10-13,SIM-UNIT-03,Forward Base Charlie,ITEM-005,Blankets,Equipment,229.0,units,4.75,5,SYNTHETIC_DEMO
+2026-10-14,SIM-UNIT-03,Forward Base Charlie,ITEM-005,Blankets,Equipment,227.25,units,5.0,5,SYNTHETIC_DEMO
